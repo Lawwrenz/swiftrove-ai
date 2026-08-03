@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="(https://github.com/Lawwrenz/swiftrove-ai/blob/main/assets/banner.png)" alt="Swiftrove AI Banner">
+  <img src="https://github.com/Lawwrenz/swiftrove-ai/blob/main/assets/banner.png" alt="Swiftrove AI Banner">
 
 </p>
 
