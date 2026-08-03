@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="8" fill="url(#logo-gradient)" />
+  <text x="16" y="22" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="800" fill="white" letter-spacing="-0.5">S</text>
+  <!-- Circuit lines extending from the left side of the S -->
+  <path d="M4 14h6" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M4 16h8" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <path d="M4 18h5" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+  <defs>
+    <linearGradient id="logo-gradient" x1="0" y1="0" x2="32" y2="32">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+</svg>
