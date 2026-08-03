@@ -4,11 +4,11 @@
 
 </p>
 
-# 🚀 Swiftrove AI
+<h1 align="center">🚀 Swiftrove AI</h1>
 
-
-
-## Your AI Workforce for Smarter Business Operations
+<p align="center">
+  <strong>Your AI Workforce for Smarter Business Operations</strong>
+</p>
 
 
 
